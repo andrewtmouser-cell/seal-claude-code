@@ -1,4 +1,4 @@
-# SEAL for Claude Code
+# SEAL for Claude Code (NEEDS TESTING)
 
 **Make your Claude Code assistant self-improving using MIT's SEAL technique.**
 
